@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU9PZyHBa8fDwSC7quT3PzE9JQ6zIT3cuAUB58W7HZF7A8mJAoDNMFTY/C4CdU4D2iVvGQPv/gNv/TRR4d7C6w==",
+  "success": true,
+  "projectFilePath": "C:\\TechnicalTest\\solEmployees\\Employees.Strategies\\Employees.Strategies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

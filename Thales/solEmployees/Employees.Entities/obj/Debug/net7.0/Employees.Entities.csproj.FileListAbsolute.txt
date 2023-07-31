@@ -1,0 +1,12 @@
+C:\TechnicalTest\solEmployees\Employees.Entities\bin\Debug\net7.0\Employees.Entities.deps.json
+C:\TechnicalTest\solEmployees\Employees.Entities\bin\Debug\net7.0\Employees.Entities.dll
+C:\TechnicalTest\solEmployees\Employees.Entities\bin\Debug\net7.0\Employees.Entities.pdb
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.csproj.AssemblyReference.cache
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.AssemblyInfoInputs.cache
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.AssemblyInfo.cs
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.csproj.CoreCompileInputs.cache
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.dll
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\refint\Employees.Entities.dll
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\Employees.Entities.pdb
+C:\TechnicalTest\solEmployees\Employees.Entities\obj\Debug\net7.0\ref\Employees.Entities.dll

@@ -1,0 +1,54 @@
+<div>
+    <h1 class="animated fadeIn fast">{{formTitle}}</h1>
+    <hr>
+</div>
+
+<!--Service gets an error-->
+<div *ngIf=" serviceResult == '500'">
+    <h2 class="animated fadeIn fast">Error</h2>
+    <hr>
+    <p class="animated fadeIn">
+        Sorry, it have happend an error. Please wait one or two minutes and then try again. Thank you.
+    </p>
+
+    <p class="animated fadeIn"> 
+        This application depends of the external sevices https://dummy.restapiexample.com/api/v1/employees and https://dummy.restapiexample.com/api/v1/employee/1. 
+        Unfortunately, this services are very unstable. 
+    </p>
+</div>
+
+<!--Service does not  get any register-->
+<div *ngIf="serviceResult == '400'">
+    <h2 class="animated fadeIn fast">No data</h2>
+    <hr>
+    <p class="animated fadeIn">
+        There is no data in the repository 
+    </p>
+</div>
+
+<!--Service gets registers-->
+<div *ngIf="serviceResult == '200'">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Salary</th>
+                <th scope="col">Anual Salary</th>
+                <th scope="col">Age</th>
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let e of employees">
+                <th scope="row">{{e.id}}</th>
+                <td>{{e.name}}</td>
+                <td>{{e.salary}}</td>
+                <td>{{e.anualSalary}}</td>
+                <td>{{e.age}}</td>
+                <td *ngIf="e.profileImage ==''"><img src="assets/img/No-Image.jpg" class="img-fluid" alt="..."></td>
+                <td *ngIf="e.profileImage !=''"><img src={{e.profileImage}} class="img-fluid" alt="..."></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

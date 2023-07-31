@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Employees.DTOs\Employees.DTOs.csproj" />
+    <ProjectReference Include="..\Employees.Entities\Employees.Entities.csproj" />
+    <ProjectReference Include="..\Employees.Repositories\Employees.Repositories.csproj" />
+    <ProjectReference Include="..\Employees.Strategies\Employees.Strategies.csproj" />
+  </ItemGroup>
+
+</Project>

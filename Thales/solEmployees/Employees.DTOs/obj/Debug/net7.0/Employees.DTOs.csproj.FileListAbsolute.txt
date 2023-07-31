@@ -1,0 +1,15 @@
+C:\TechnicalTest\solEmployees\Employees.DTOs\bin\Debug\net7.0\Employees.DTOs.deps.json
+C:\TechnicalTest\solEmployees\Employees.DTOs\bin\Debug\net7.0\Employees.DTOs.dll
+C:\TechnicalTest\solEmployees\Employees.DTOs\bin\Debug\net7.0\Employees.DTOs.pdb
+C:\TechnicalTest\solEmployees\Employees.DTOs\bin\Debug\net7.0\Employees.Entities.dll
+C:\TechnicalTest\solEmployees\Employees.DTOs\bin\Debug\net7.0\Employees.Entities.pdb
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.csproj.AssemblyReference.cache
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.AssemblyInfoInputs.cache
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.AssemblyInfo.cs
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.csproj.CoreCompileInputs.cache
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.csproj.CopyComplete
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.dll
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\refint\Employees.DTOs.dll
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\Employees.DTOs.pdb
+C:\TechnicalTest\solEmployees\Employees.DTOs\obj\Debug\net7.0\ref\Employees.DTOs.dll
